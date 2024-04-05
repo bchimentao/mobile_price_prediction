@@ -1,4 +1,4 @@
-# Mobeli Price Prediction
+# Mobile Price Prediction
 
 The present notebook makes use of machine learning algorithms for a mobile price classification, based on a Kaggle dataset called "Mobile Price Classification".
 
